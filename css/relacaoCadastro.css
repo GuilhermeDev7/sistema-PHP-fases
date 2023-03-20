@@ -1,0 +1,27 @@
+body {
+        background-color: bisque ;
+}
+
+.container4 {
+        width: 100%;
+        position: fixed;
+        overflow: scroll;
+        
+}
+
+.div1 {
+        background-color: bisque;
+       
+        width: 100%;
+        position: fixed;
+       
+}
+
+.tab  {
+        border: 1px solid #000;
+}
+
+.tab td {
+        border: 1px solid #000;
+        margin: 2px 6px;
+}

@@ -1,0 +1,65 @@
+* {
+        margin: 0;
+        padding: 0;
+}
+
+body {
+        background-color: rgb(229, 223, 243);
+}
+
+.div {
+        background-color: rgb(229, 223, 243);
+        height: 100vh;
+}
+
+.formulario {
+        width: 80%;
+        widows: inherit;
+        margin: 25px auto;
+        padding: 53px 6px;
+}
+
+.formulario2 {
+        width: 100%;
+}
+
+.formulario2 div {
+        margin: 12px 0;
+        width: 80%;
+        text-align: start;
+}
+
+.formulario2 label {
+        width: 100%;
+        text-align: start;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 18px;
+        color: #000;
+}
+
+.formulario2 input {
+        width: 728px;
+        padding: 6px 16px;
+        font-size: 16px;
+        border-radius: 10px;
+        text-transform: capitalize;
+}
+
+.grau {
+        width: 80%;
+        font-size: 5px;
+        display: flex;
+}
+
+#grau {
+        width: 64%;
+        display: flex;
+        
+}
+
+.p {
+        font-size: 18px;
+        font-weight: 500;
+        color: #000;
+        padding: 4px 12px;
+}

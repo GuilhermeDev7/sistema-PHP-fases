@@ -1,0 +1,13 @@
+.relatorio {
+        background-image: url("menu.jpg");
+        background-position: center; 
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-size: 18px;
+        font-weight: 500;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 6px 16px;
+        cursor: pointer;
+        border-radius: 6px;
+        color: aliceblue;
+}
